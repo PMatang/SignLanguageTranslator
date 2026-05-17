@@ -28,3 +28,5 @@ python src/phase4_train_lstm.py
 
 # Phase 5 — launch the app
 streamlit run src/phase5_app.py
+
+# Create /models, /data/landmarks, /data/processed and /data/raw folders.
